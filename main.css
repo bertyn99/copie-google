@@ -1,0 +1,15 @@
+body,html
+{
+   font-size: medium
+    
+}
+center
+{
+display: block;
+text-align: center;
+
+}
+li
+{
+    display: inline;
+}
